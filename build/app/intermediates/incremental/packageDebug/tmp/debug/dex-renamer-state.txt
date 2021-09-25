@@ -1,0 +1,4 @@
+#Wed Sep 22 15:17:15 IST 2021
+base.0=C\:\\Users\\zafar\\Desktop\\flutter_apps\\wallpaperhub\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
