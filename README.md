@@ -1,6 +1,7 @@
 # wallpaperhub
 
-A new Flutter project.
+A wallpaper app developed by using flutter and dart
+
 
 ## Getting Started
 
